@@ -23,5 +23,12 @@
 package us.pawgames.apoc;
 
 public class RadioCom {
+	/*
+	 * Retrieve Radio Station
+	 */
+	public int retrieveRadioStation(){
+		
+		return 1;
+	}
 	
 }
