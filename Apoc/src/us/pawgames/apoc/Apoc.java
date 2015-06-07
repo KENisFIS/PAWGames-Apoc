@@ -12,7 +12,7 @@ public class Apoc extends JavaPlugin {
 	File configFile = new File ("Apoc/config.yml");
 	YamlConfiguration configYaml = YamlConfiguration.loadConfiguration(configFile);
 	
-	//When the plugin is enabled...
+	//When the plugin is enabled....
 	@Override
 	public void onEnable() {
 
